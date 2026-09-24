@@ -1,4 +1,4 @@
-[![bbDKP](http://www.avathar.be/bbdkp/images/site_logo.png)](http://www.avathar.be/bbdkp)
+[![bbDKP](https://www.avathar.be/forum/images/site_logo.png)](http://www.avathar.be/forum)
 
 ## About
 
@@ -84,9 +84,7 @@ should you wish to Deactivate this Mod quickly you can open configdkp.php and co
 
 Find support and more on 
 
-*   Forums : [www.avathar.be/bbdkp](http://www.avathar.be/bbdkp)
-*   IRC : [Freenode](https://webchat.freenode.net) #bbdkp
-*   Twitter @bbDKP
+*   Forums : [www.avathar.be/bbdkp](http://www.avathar.be/forum)
 
 ## Changelog 
 
@@ -785,10 +783,10 @@ Find support and more on
 
 ## contribute
 
-You can see all the awesome people contributing to this project [here](https://github.com/bbdkp/bbdkp/graphs/contributors).
+You can see all the awesome people contributing to this project [here](https://github.com/avatharbe/bbDKPMOD/graphs/contributors).
 
-1. [Create a ticket (unless there already is one)] : https://github.com/bbDKP/bbDKP/issues or http://www.bbdkp.com/tracker.php
-2. [Read our Git Contribution Guidelines](http://www.bbdkp.com/viewtopic.php?f=60&t=1854); if you're new to git, also read [Git Primer](http://www.bbdkp.com/viewtopic.php?f=60&t=1853)
+1. [Create a ticket (unless there already is one)] : https://github.com/avatharbe/bbDKPMOD/issues 
+2. [Read our Git Contribution Guidelines](https://www.avathar.be/forum/viewtopic.php?t=1854); if you're new to git, also read [Git Primer](https://www.avathar.be/forum/viewtopic.php?p=11399)
 3. Send us a pull request
 
 ## License
